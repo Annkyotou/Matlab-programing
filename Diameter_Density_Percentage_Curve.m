@@ -14,3 +14,4 @@ xlabel('Diemeter'), ylabel('Percentage'), zlabel('Density'),title('Diemeter-Dens
 %surf(X*2,Y,DS);hold on;
 %ok=pi().*((X.^2-(X-2).^2)*500-X.^2.*40);
 %mesh(R*2,P,ok);
+00
